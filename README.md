@@ -1,2 +1,2 @@
 # website2025
-work in progress om website project
+creating a website to build and demonstrate my web devlopment skills.
